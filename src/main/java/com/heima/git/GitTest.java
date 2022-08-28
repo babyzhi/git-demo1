@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hello.git4");
         System.out.println("主线程进行了修改");
         System.out.println("热修分支进行了修改");
+        System.out.println("本地库修改了代码");
     }
 }
